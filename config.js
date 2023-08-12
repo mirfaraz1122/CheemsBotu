@@ -48,19 +48,19 @@ global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bombdy
-global.botname = "ur bot name" //ur bot name
-global.websitex = "https://youtu.be/xn9RatOrbuI" //ur website
+global.botname = " 𝐍𝐀𝐓𝐈𝐎𝐍𝐀𝐋𝐈𝐒𝐓🚩" //ur bot name
+global.websitex = "" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "🦄Dream Guy Xeon"
+global.packname = "I       ΛM      ПӨƬ    FЦᄃKIПG    ΉЦMΛП"
+global.author = ""
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
-global.ownertag = ['ur number'] //ur owner tag
-global.ownernummenu = ['ur number'] //ur owner number in menu and all
-global.watermark = "Xeon Bot Inc." //ur watermark
+global.ownertag = ['46726412723'] //ur owner tag
+global.ownernummenu = ['923206629195'] //ur owner number in menu and all
+global.watermark = "I       ΛM      ПӨƬ    FЦᄃKIПG    ΉЦMΛП" //ur watermark
 global.botscript = "https://github.com/DGXeon/CheemsBot-MD3"
-global.linkz1 = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"
-global.linkz2 = "https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd"
+global.linkz1 = "https://chat.whatsapp.com/LVTcnUvmBno5OYrSgMVoZt"
+global.linkz2 = "https://chat.whatsapp.com/LVTcnUvmBno5OYrSgMVoZt"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
